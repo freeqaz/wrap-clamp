@@ -1,0 +1,28 @@
+{
+  "name": "wrap-clamp",
+  "version": "1.0.0",
+  "description": "A clamp function that wraps the value to be within bounds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeqaz/wrap-clamp.git"
+  },
+  "keywords": [
+    "clamp",
+    "wrap",
+    "wrapping",
+    "math"
+  ],
+  "author": "freeqaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freeqaz/wrap-clamp/issues"
+  },
+  "homepage": "https://github.com/freeqaz/wrap-clamp",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
