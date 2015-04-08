@@ -1,8 +1,7 @@
 # wrap-clamp
 A simple clamping library that will wrap the value if it exceeds the bounds.
 
-```
-javascript
+```javascript
 var wrapClamp = require('wrap-clamp');
 
 wrapClamp(4, 0, 4); // prints 4
