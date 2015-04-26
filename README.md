@@ -1,5 +1,5 @@
 # wrap-clamp
-A simple clamping library that will wrap the value if it exceeds the bounds.
+A simple wrapping clamp library that will wrap the value if it exceeds the bounds.
 
 ```javascript
 var wrapClamp = require('wrap-clamp');
